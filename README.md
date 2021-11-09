@@ -1,6 +1,3 @@
 
-# Laravel IMDB Example
+#  IMDB Laravel Example
 
-
-
-# hugogod
